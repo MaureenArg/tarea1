@@ -9,12 +9,10 @@ math: true
 title: Catarata la Elia
 ---
 
-La catarata río Elia se situa en Guápiles. 
+
 
 ## Información general
-
-
-La zona de Guápiles es húmeda y caliente.
+La catarata río Elia se situa en Guápiles. La zona de Guápiles es húmeda y caliente.
 La distancia total es de 13 km, aproximadamente toma 7 horas de caminata, desde el stio donde inicia el tour. Es necesario ir con un guía. El grado de dificultad es alta.  
 
 
