@@ -1,24 +1,18 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: La Finca es un negocio familiar se se ubica a 8 km de la gasolinera de Suerres, Jiménez. El stio tiene dos        cataratas y varias pozas de agua cristalinas rodeadas de bosques. Para llegar se requiere un vehículo 4 x 4, aunque también al sitio se puede llegar caminando o en bicicleta. En la finca, los dueños le reciben con una gran sonrisa y además ofrecen servicio de soda, baños y parqueo. 
 authors:
 - admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
+- Maureen Arguedas
+date: "2021-07-01T00:00:00Z"
 doi: ""
 featured: true
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [**Maureen Arguedas**]'
   focal_point: ""
   preview_only: false
 links:
-- name: Custom Link
-  url: http://example.org
+- name: Sitio web
+  url: https://pozasguacimo.minidux.com/
 projects:
 - internal-project
 publication: In *Source Themes Conference*
@@ -27,27 +21,17 @@ publication_types:
 - "1"
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Negocio familiar con dos cataratas y pozas de agua cristalina. Situada a 8 km de la gasolinera de Suerres.
 tags:
 - Source Themes
-title: An example conference paper
-url_code: '#'
-url_dataset: '#'
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_poster: '#'
+title: Finca Pozas de Guácimo 
+url_code: ''
+url_dataset: ''
+url_pdf: 
+url_poster: ''
 url_project: ""
 url_slides: ""
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
